@@ -5,12 +5,12 @@ public:
         if(sum==amount){
             return 1;
         }
-        if(sum>amount){
+        if(sum>amount || i==coins.size()){
             return 0;
         }
-        if(i==coins.size()){
-            return 0;
-        }
+        // if(i==coins.size()){
+        //     return 0;
+        // }
         if (dp[i][sum]!=-1) {
             return dp[i][sum];
         }
