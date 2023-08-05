@@ -11,29 +11,38 @@
  */
 class Solution {
 public:
-    vector<TreeNode*>buildtree(int start,int end){
-        vector<TreeNode*>ans;
+    void helper(int start,int end,vector<TreeNode*>&ret,vector<vector<vector<TreeNode*>>>&dp){
         if(start>end){
-            ans.push_back(NULL);
-            return ans;
+            ret.push_back(NULL);
+            return;
         }
+        if (!dp[start-1][end-1].empty())  {
+        ret = dp[start-1][end-1]; return;
+    }
         for(int i=start;i<=end;i++){
-            vector<TreeNode*>lefttree=buildtree(start,i-1);
-            vector<TreeNode*>righttree=buildtree(i+1,end);
+            vector<TreeNode*>lefttree;
+            vector<TreeNode*>righttree;
+            helper(start,i-1,lefttree,dp);
+            helper(i+1,end,righttree,dp);
             for(int j=0;j<lefttree.size();j++){
                 for(int k=0;k<righttree.size();k++){
                     TreeNode*root=new TreeNode(i);
                     root->left=lefttree[j];
                     root->right=righttree[k];
-                    ans.push_back(root);
+                    ret.push_back(root);
                 }
             }
             
         }
-        return ans;
+        dp[start-1][end-1]=ret;
     }
 
+   
+
     vector<TreeNode*> generateTrees(int n) {
-        return buildtree(1,n);
+        vector<TreeNode*> ret;
+        vector<vector<vector<TreeNode*>>> dp(n,vector<vector<TreeNode*>>(n));
+        helper(1,n,ret,dp);
+        return ret;
     }
 };
