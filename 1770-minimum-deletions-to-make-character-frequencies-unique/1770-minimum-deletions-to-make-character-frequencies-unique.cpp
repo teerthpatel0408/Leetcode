@@ -6,10 +6,16 @@ public:
         for (char ch : s)
             ++cnt[ch - 'a'];
         for (int i = 0; i < 26; ++i){
-            for (; cnt[i] > 0 && !used.insert(cnt[i]).second; --cnt[i]){
-                ++ans;
+            for (; cnt[i] > 0 ; --cnt[i]){
+                if(used.find(cnt[i])!=used.end())
+                    ++ans;
+                else {
+                    used.insert(cnt[i]);
+                    break;
+                }    
             }
         }
         return ans;
     }
 };
+// !used.insert(cnt[i]).second
