@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/teerthpatel0408/Leetcode/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/teerthpatel0408/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0330-patching-array](https://github.com/teerthpatel0408/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/teerthpatel0408/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/teerthpatel0408/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0523-continuous-subarray-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/teerthpatel0408/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/teerthpatel0408/Leetcode/tree/master/0876-hand-of-straights) |
@@ -69,3 +71,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/teerthpatel0408/Leetcode/tree/master/0502-ipo) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/teerthpatel0408/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+# Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/teerthpatel0408/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/teerthpatel0408/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
