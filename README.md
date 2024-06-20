@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/teerthpatel0408/Leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/teerthpatel0408/Leetcode/tree/master/1137-height-checker) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/teerthpatel0408/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/teerthpatel0408/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/teerthpatel0408/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/teerthpatel0408/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/teerthpatel0408/Leetcode/tree/master/1137-height-checker) |
+| [1675-magnetic-force-between-two-balls](https://github.com/teerthpatel0408/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Trie
 |  |
 | ------- |
@@ -96,3 +98,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/teerthpatel0408/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/teerthpatel0408/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/teerthpatel0408/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/teerthpatel0408/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
