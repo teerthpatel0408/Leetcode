@@ -96,10 +96,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/teerthpatel0408/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/teerthpatel0408/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/teerthpatel0408/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/teerthpatel0408/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search
 |  |
 | ------- |
@@ -131,3 +133,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/teerthpatel0408/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/teerthpatel0408/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/teerthpatel0408/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
