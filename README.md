@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/teerthpatel0408/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/teerthpatel0408/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0130-surrounded-regions](https://github.com/teerthpatel0408/Leetcode/tree/master/0130-surrounded-regions) |
 | [0330-patching-array](https://github.com/teerthpatel0408/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/teerthpatel0408/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/teerthpatel0408/Leetcode/tree/master/0130-surrounded-regions) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/teerthpatel0408/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/teerthpatel0408/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
@@ -147,3 +149,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/teerthpatel0408/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/teerthpatel0408/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/teerthpatel0408/Leetcode/tree/master/0130-surrounded-regions) |
+# Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/teerthpatel0408/Leetcode/tree/master/0130-surrounded-regions) |
+# Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/teerthpatel0408/Leetcode/tree/master/0130-surrounded-regions) |
