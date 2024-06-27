@@ -161,3 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/teerthpatel0408/Leetcode/tree/master/0130-surrounded-regions) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/teerthpatel0408/Leetcode/tree/master/1916-find-center-of-star-graph) |
