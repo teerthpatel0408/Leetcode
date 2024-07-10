@@ -1,31 +1,29 @@
 class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
-        int l=0,r=0,n=nums.size();
-        for(int i=0;i<n;i++){
-            l=max(l,nums[i]);
-            r+=nums[i];
-        }
-        int mid=0,ans=0;
-        while(l<=r){
-            mid=(l+r)/2;
-            int cnt=0,tempsum=0;
-            for(int i=0;i<n;i++){
-                if(tempsum+nums[i]<=mid){
-                    tempsum+=nums[i];
-                }
-                else{
-                    cnt++;
-                    tempsum=nums[i];
+        int end = accumulate(nums.begin(), nums.end(), 0);
+        int start = *max_element(nums.begin(), nums.end()); // Corrected line
+        int ans = INT_MAX;
+        while (start <= end) {
+            int mid = start + (end - start) / 2; // More precise way to avoid potential overflow
+            int countSegs = 1;
+            int sum = 0;
+            int miniSum = INT_MIN;
+            for (int num : nums) {
+                if (sum + num <= mid) {
+                    sum += num;
+                } else {
+                    countSegs++;
+                    miniSum = max(miniSum, sum);
+                    sum = num;
                 }
             }
-            cnt++;
-            if(cnt<=k){
-                r=mid-1;
-                ans=mid;
-            }
-            else{
-                l=mid+1;
+            miniSum = max(miniSum, sum);
+            if (countSegs > k) {
+                start = mid + 1;
+            } else {
+                ans = min(ans, miniSum);
+                end = mid - 1;
             }
         }
         return ans;
