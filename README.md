@@ -204,12 +204,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/teerthpatel0408/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/teerthpatel0408/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/teerthpatel0408/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/teerthpatel0408/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/teerthpatel0408/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/teerthpatel0408/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/teerthpatel0408/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -290,4 +292,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/teerthpatel0408/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/teerthpatel0408/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
