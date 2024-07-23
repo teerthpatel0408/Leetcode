@@ -29,7 +29,7 @@ public:
     string get(string key, int timestamp) {
         if(tp.find(key) == tp.end())    return "";
         auto &curr = tp[key];
-        int num = bs(curr,timestamp);
+        int num = bs(tp[key],timestamp);
         return num == -1 ? "" : curr[num].second;
     }
 };
