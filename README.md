@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/teerthpatel0408/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1249-snapshot-array](https://github.com/teerthpatel0408/Leetcode/tree/master/1249-snapshot-array) |
 | [1293-three-consecutive-odds](https://github.com/teerthpatel0408/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/teerthpatel0408/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teerthpatel0408/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/teerthpatel0408/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1249-snapshot-array](https://github.com/teerthpatel0408/Leetcode/tree/master/1249-snapshot-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/teerthpatel0408/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/teerthpatel0408/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/teerthpatel0408/Leetcode/tree/master/2502-sort-the-people) |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/teerthpatel0408/Leetcode/tree/master/1249-snapshot-array) |
 ## Sorting
 |  |
 | ------- |
@@ -343,4 +346,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/teerthpatel0408/Leetcode/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
