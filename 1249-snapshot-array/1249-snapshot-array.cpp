@@ -1,30 +1,42 @@
-class SnapshotArray {
-public:
+#include <vector>
+#include <unordered_map>
+using namespace std;
 
-    unordered_map<int,map<int,int>>a;
-    int cur_snap=0;
+class SnapshotArray {
+private:
+    unordered_map<int, vector<pair<int, int>>> history;
+    int snapCount = 0;
+
+public:
     SnapshotArray(int length) {
-       {}
     }
-    
+
     void set(int index, int val) {
-        a[index][cur_snap]=val;
+        if (!history[index].empty() && history[index].back().first == snapCount) {
+            history[index].back().second = val;
+        } else {
+            history[index].push_back({snapCount, val});
+        }
     }
-    
+
     int snap() {
-        return cur_snap++;
+        return snapCount++;
     }
-    
+
     int get(int index, int snap_id) {
-        auto it = a[index].upper_bound(snap_id);
-        return it == begin(a[index]) ? 0 : prev(it)->second;
+        const auto& changes = history[index];
+        int l = 0, r = changes.size() - 1;
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            if (changes[mid].first <= snap_id) {
+                if (mid == changes.size() - 1 || changes[mid + 1].first > snap_id) {
+                    return changes[mid].second;
+                }
+                l = mid + 1;
+            } else {
+                r = mid - 1;
+            }
+        }
+        return 0; 
     }
 };
-
-/**
- * Your SnapshotArray object will be instantiated and called as such:
- * SnapshotArray* obj = new SnapshotArray(length);
- * obj->set(index,val);
- * int param_2 = obj->snap();
- * int param_3 = obj->get(index,snap_id);
- */
