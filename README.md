@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1207-delete-nodes-and-return-forest](https://github.com/teerthpatel0408/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/teerthpatel0408/Leetcode/tree/master/1249-snapshot-array) |
 | [1293-three-consecutive-odds](https://github.com/teerthpatel0408/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -237,17 +238,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/teerthpatel0408/Leetcode/tree/master/1249-snapshot-array) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1333-sort-the-jumbled-numbers](https://github.com/teerthpatel0408/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teerthpatel0408/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/teerthpatel0408/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -312,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/teerthpatel0408/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
 | ------- |
@@ -349,4 +354,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/teerthpatel0408/Leetcode/tree/master/1249-snapshot-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
