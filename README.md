@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/teerthpatel0408/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/teerthpatel0408/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/teerthpatel0408/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/teerthpatel0408/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/teerthpatel0408/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/teerthpatel0408/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/teerthpatel0408/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/teerthpatel0408/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/teerthpatel0408/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teerthpatel0408/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/teerthpatel0408/Leetcode/tree/master/2502-sort-the-people) |
