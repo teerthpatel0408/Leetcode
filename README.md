@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/teerthpatel0408/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/teerthpatel0408/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/teerthpatel0408/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/teerthpatel0408/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/teerthpatel0408/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/teerthpatel0408/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/teerthpatel0408/Leetcode/tree/master/1249-snapshot-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/teerthpatel0408/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/teerthpatel0408/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1333-sort-the-jumbled-numbers](https://github.com/teerthpatel0408/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/teerthpatel0408/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/teerthpatel0408/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
