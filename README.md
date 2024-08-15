@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/teerthpatel0408/Leetcode/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0480-sliding-window-median](https://github.com/teerthpatel0408/Leetcode/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/teerthpatel0408/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/teerthpatel0408/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0480-sliding-window-median](https://github.com/teerthpatel0408/Leetcode/tree/master/0480-sliding-window-median) |
 | [0870-magic-squares-in-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/teerthpatel0408/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/teerthpatel0408/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0480-sliding-window-median](https://github.com/teerthpatel0408/Leetcode/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Stack
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/teerthpatel0408/Leetcode/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Database
 |  |
