@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/teerthpatel0408/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0264-ugly-number-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0480-sliding-window-median](https://github.com/teerthpatel0408/Leetcode/tree/master/0480-sliding-window-median) |
 | [0870-magic-squares-in-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/teerthpatel0408/Leetcode/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/teerthpatel0408/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/teerthpatel0408/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/teerthpatel0408/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/teerthpatel0408/Leetcode/tree/master/1642-water-bottles) |
@@ -420,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0480-sliding-window-median](https://github.com/teerthpatel0408/Leetcode/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Database
