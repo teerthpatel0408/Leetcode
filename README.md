@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/teerthpatel0408/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/teerthpatel0408/Leetcode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/teerthpatel0408/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/teerthpatel0408/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/teerthpatel0408/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/teerthpatel0408/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/teerthpatel0408/Leetcode/tree/master/0664-strange-printer) |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/teerthpatel0408/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/teerthpatel0408/Leetcode/tree/master/1720-crawler-log-folder) |
