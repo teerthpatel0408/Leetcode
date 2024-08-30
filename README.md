@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2171-second-minimum-time-to-reach-destination](https://github.com/teerthpatel0408/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/teerthpatel0408/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/teerthpatel0408/Leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [2803-modify-graph-edge-weights](https://github.com/teerthpatel0408/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/teerthpatel0408/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/teerthpatel0408/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/teerthpatel0408/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/teerthpatel0408/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/teerthpatel0408/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/teerthpatel0408/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/teerthpatel0408/Leetcode/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/teerthpatel0408/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1325-path-with-maximum-probability](https://github.com/teerthpatel0408/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/teerthpatel0408/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Database
 |  |
 | ------- |
