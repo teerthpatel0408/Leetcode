@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/teerthpatel0408/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/teerthpatel0408/Leetcode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/teerthpatel0408/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/teerthpatel0408/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/teerthpatel0408/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/teerthpatel0408/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0480-sliding-window-median](https://github.com/teerthpatel0408/Leetcode/tree/master/0480-sliding-window-median) |
 | [0870-magic-squares-in-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/teerthpatel0408/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/teerthpatel0408/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/teerthpatel0408/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/teerthpatel0408/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/teerthpatel0408/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/teerthpatel0408/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/teerthpatel0408/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/teerthpatel0408/Leetcode/tree/master/1803-average-waiting-time) |
