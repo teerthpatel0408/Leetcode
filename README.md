@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0174-dungeon-game](https://github.com/teerthpatel0408/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/teerthpatel0408/Leetcode/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/teerthpatel0408/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/teerthpatel0408/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/teerthpatel0408/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/teerthpatel0408/Leetcode/tree/master/0174-dungeon-game) |
 | [0870-magic-squares-in-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/teerthpatel0408/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/teerthpatel0408/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
