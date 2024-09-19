@@ -38,10 +38,10 @@ public:
 				}
 			}
 		}
-		// if the input string contains only number
+		
 		if (result.empty())
 			result.push_back(atoi(input.c_str()));
-		// save to dpMap
+		
 		dpMap[input] = result;
 		return result;
 	}
