@@ -1,13 +1,19 @@
 class Solution {
 public:
     int countMaxOrSubsets(vector<int>& nums) {
-        int max=0,dp[1<<17]={1};
-        for(int a:nums){
-            for(int i=max;i>=0;i--){
-                dp[i|a]+=dp[i];
-                max|=a;
+        int goal = 0, N = nums.size(), ans = 0;
+        for (int n : nums){
+            goal |= n;
+        }
+        for (int m = 1; m < 1 << N; ++m){
+            int x = 0;
+            for (int i = 0; i < N; ++i) {
+                if (m >> i & 1) x |= nums[i];
+            }
+            if (x == goal){
+                ans++;
             }
         }
-        return dp[max];
+        return ans;
     }
 };
