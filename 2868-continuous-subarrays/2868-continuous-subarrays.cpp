@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long continuousSubarrays(vector<int>& nums) {
-        long long  count = 0;
+        long long count = 0;
         int n = nums.size();
         map<int,int>mp;
         int i=0,j=0;
