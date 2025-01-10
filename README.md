@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/teerthpatel0408/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/teerthpatel0408/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/teerthpatel0408/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0952-word-subsets](https://github.com/teerthpatel0408/Leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/teerthpatel0408/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/teerthpatel0408/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/teerthpatel0408/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/teerthpatel0408/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/teerthpatel0408/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/teerthpatel0408/Leetcode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/teerthpatel0408/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/teerthpatel0408/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/teerthpatel0408/Leetcode/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/teerthpatel0408/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/teerthpatel0408/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/teerthpatel0408/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/teerthpatel0408/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/teerthpatel0408/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/teerthpatel0408/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
