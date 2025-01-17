@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/teerthpatel0408/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/teerthpatel0408/Leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2755-extra-characters-in-a-string](https://github.com/teerthpatel0408/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2792-neighboring-bitwise-xor](https://github.com/teerthpatel0408/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/teerthpatel0408/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/teerthpatel0408/Leetcode/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/teerthpatel0408/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -896,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/teerthpatel0408/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/teerthpatel0408/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/teerthpatel0408/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/teerthpatel0408/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/teerthpatel0408/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/teerthpatel0408/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/teerthpatel0408/Leetcode/tree/master/3394-minimum-array-end) |
